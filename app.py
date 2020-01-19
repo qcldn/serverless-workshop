@@ -20,7 +20,7 @@ def submit_contact():
         if item not in data:
             return jsonify({
                     'status': 'error',
-                    'message': 'Missing required {} parameter'.format(item)
+                    'message': f'Missing required {item} parameter'
                     }), 400
 
     first_name = data.get('first_name')
