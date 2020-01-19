@@ -2,6 +2,8 @@
 
 This is a repo I created running through the Queer Code Workshop on AWS Serverless, using AWS Lambda backed by DynamoDB.
 
+👏 The workshop was created & taught by [@YupItsZac](https://github.com/yupitszac). 👏
+
 You can use these instructions to follow along yourself.
 
 First you should create a directory named `contact-api` and then change to it.
