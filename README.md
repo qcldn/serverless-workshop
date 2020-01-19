@@ -44,7 +44,7 @@ pip install flask boto3 werkzeug
 Output those dependencies to a file to be checked in:
 
 ```bash
-Pip freeze > requirements.txt
+pip freeze > requirements.txt
 ```
 
 ## The code
